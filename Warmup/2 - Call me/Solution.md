@@ -1,4 +1,4 @@
-# Deploy a contract
+# Call me
 
 ## Intitulé 
 
@@ -12,7 +12,7 @@
 
 On doit appeler la fonction `callme` du smart contrat.
 
-Déployer le smart contract avec le bouton de la plateforme. Nous obtenons ensuite son adresse : `0xF1586ba35F8A9B0e7492e088EeE8b7E542248ea5`
+Déployer le smart contract avec le bouton de la plateforme. Nous obtenons ensuite son adresse.
 
 Ouvrir [Remix](https://remix.ethereum.org/) et copier le code du contrat. Compiler (attention à la vision de solidity).
 
