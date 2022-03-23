@@ -1,6 +1,6 @@
 # Capture-the-Ether
 
-Mes solutions pour la plateforme Capture the Ether : https://capturetheether.com/
+Mes solutions pour la plateforme [Capture the Ether](https://capturetheether.com/)
 
 Capture the Ether est une plateforme d'entrainement qui propose des challenges de type CTF. L'objectif est de sensibiliser à la sécurité dans les smart contracts. 
 
