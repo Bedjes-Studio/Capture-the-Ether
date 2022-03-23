@@ -2,13 +2,23 @@
 
 Mes solutions pour la plateforme Capture the Ether : https://capturetheether.com/
 
-Capture the Ether est une plateforme d'entrainement qui propose des challenges de type CTF. L'objectif est de sensibiliser à la sécurité dans les smart contracts. Les challenges sont divisés en plusieurs catégories et de difficulté variés. Chaque challenge réussi remporte des points.
+Capture the Ether est une plateforme d'entrainement qui propose des challenges de type CTF. L'objectif est de sensibiliser à la sécurité dans les smart contracts. 
+
+Les challenges sont divisés en plusieurs catégories et de difficulté variés. Pour chaque challenge, un smart contract avec une vulnérabilité est donné. Chaque challenge réussi remporte des points. Pour chaque challenge, vous trouverez le smart contract ainsi qu'une solution détaillée.
+
+Le réseau utilisé par la plateforme est le réseau de test Ropsten. Il est nécessaire d'avoir Metamask installé sur son navigateur.
+
+Voici quelques outils très utiles :
+*  [Faucet ETH](https://faucet.egorfine.com/) pour Ropsten
+* [Remix](https://remix.ethereum.org/), IDE en ligne pour les smart contracts
+* [Explorateur de blocs](https://ropsten.etherscan.io/) pour Ropsten
+
 
 Je conseille fortement de faire des recherches préalables avant de consulter les solutions.
 
 # Solutions trouvées (14/20)
 
-Les solutions trouvées ne sont pas forcément disponibles immédiatement, le temps de rédiger une solution claire.
+Les solutions trouvées ne sont pas forcément disponibles immédiatement, le temps de rédiger une solution détaillée.
 
 ## Warmup (3/3)
 
